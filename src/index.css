@@ -6,4 +6,8 @@
     .button {
         @apply bg-black text-white p-2 rounded-full px-5 hover:text-cyan-300 transition-colors duration-200;
     }
+
+    .input {
+        @apply border border-gray-400 rounded-sm p-1 px-2
+    }
 }
