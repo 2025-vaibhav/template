@@ -4,7 +4,7 @@
 
 @layer components {
     .button {
-        @apply bg-black text-white p-2 rounded-full px-5 hover:text-cyan-300 transition-colors duration-200;
+        @apply bg-gradient-to-br from-[#3E52D5] to-[#77A9F0] text-white p-2 px-4 rounded hover:opacity-90 transition-all
     }
 
     .input {
