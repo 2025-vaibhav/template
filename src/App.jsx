@@ -16,7 +16,7 @@ const App = () => {
   return (
     <Router>
       <Navbar />
-      <Toaster richColors position="bottom-center" duration={1000} />
+      <Toaster richColors position="bottom-center" />
       <div className="max-w-screen-2xl p-3 mx-auto min-h-screen">
         <Routes>
           <Route path="/" element={<Home />} />
