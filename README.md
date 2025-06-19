@@ -50,3 +50,12 @@ img src=slides[x]
 for dots map the slides
 onClick - setX(index)
 x==index ? big:small
+
+calculator - done
+button value="1"
+onClick setValue
+setInput(input+e.target.value)
+eval(input)
+.toFixed(2)
+try catch
+
