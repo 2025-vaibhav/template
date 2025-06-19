@@ -42,6 +42,7 @@ mobile nav : = and x button
 close on link click also
 conditionally render nav using
 window.innerWidth in useEffect
+window.addEventListener('resize',)
 
 image slider - done
 next - setX(x+1)
@@ -50,6 +51,7 @@ img src=slides[x]
 for dots map the slides
 onClick - setX(index)
 x==index ? big:small
+setInterval normally
 
 calculator - done
 button value="1"
