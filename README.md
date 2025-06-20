@@ -65,4 +65,9 @@ digital clock - done
 new Date().toLocaleDateString()
 new Date().toLocaleTimeString()
 
+star rating component - done
+make an array and map
+make a state for rating
+the one on which it is clicked make it coloured
+change == to <=
 
