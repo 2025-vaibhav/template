@@ -60,6 +60,7 @@ setInput(input+e.target.value)
 eval(input)
 .toFixed(2)
 try catch
+back input.slice(0, -1)
 
 digital clock - done
 new Date().toLocaleDateString()
