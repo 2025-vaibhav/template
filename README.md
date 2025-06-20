@@ -71,3 +71,9 @@ make a state for rating
 the one on which it is clicked make it coloured
 change == to <=
 
+multi step form - done
+same as tabs 
+width bar
+disabled next and prev 
+submit button if last tab
+
