@@ -61,3 +61,8 @@ eval(input)
 .toFixed(2)
 try catch
 
+digital clock - done
+new Date().toLocaleDateString()
+new Date().toLocaleTimeString()
+
+
